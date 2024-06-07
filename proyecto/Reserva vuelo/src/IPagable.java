@@ -1,0 +1,3 @@
+interface IPagable {
+    double calcularPrecioReserva();
+}
